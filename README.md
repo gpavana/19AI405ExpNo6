@@ -115,8 +115,8 @@ end
 ```
 ### Program:
 ```Python
-import time                # Developed By: ROHIT JAIN D
-class Game:                # Register No : 212222230120
+import time                # Developed By: PAVANA.G
+class Game:                # Register No : 212222230105
     def __init__(self):
         self.initialize_game()
     def initialize_game(self):
